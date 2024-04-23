@@ -1,4 +1,0 @@
-R= Roughness
-G= Metallic
-B= Ambient Occlusion
-A= Color/Pattern Mask
